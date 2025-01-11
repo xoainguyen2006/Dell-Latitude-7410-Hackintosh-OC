@@ -8,7 +8,7 @@ I am currently using macOS Ventura 13.7.1 and I wouldn't recommend updating to S
 ## System Configuration
 
 - CPU:  Intel Core i7-10610U
-- iGPU: Intel UHD Graphics 630 (Comet Lake)
+- iGPU: Intel UHD Graphics
 - RAM:  32GB DDR4 2667Mhz
 - SSD:  512 GB Intel 660P NVMe 
 - WiFi: Intel® Wi-Fi 6 AX201
